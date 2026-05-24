@@ -20,7 +20,7 @@
 - 🌱 Currently learning **Machine Learning, Deep Learning & DSA**
 - 💻 Skilled in **Python, JavaScript, SQL**
 - 🧠 Exploring **Computer Vision & AI**
-- ⚡ Building real-world projects using **YOLOv8 & FastAPI**
+- 📫 How to reach me yashviramgama02@gmail.com
 - 📍 Ahmedabad, India
 
 ---
@@ -52,10 +52,6 @@
 
 <p align="center">
 
-<a href="mailto:yashviramgama02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/yashviramgama02-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -64,13 +60,6 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yashviramgama02-dev&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## ⚡ Fun Quote
 
